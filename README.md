@@ -1,3 +1,2 @@
-Email ---> theteabagcoder@gmail.com
-
-StackOverflow Samples ---> https://stackblitz.com/@TheTeabagCoder/collections/stackoverflow-sample
+- Email ---> theteabagcoder@gmail.com
+- StackOverflow Samples ---> https://stackblitz.com/@TheTeabagCoder/collections/stackoverflow-sample
