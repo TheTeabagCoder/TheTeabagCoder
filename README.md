@@ -1,3 +1,5 @@
 - Email ---> theteabagcoder@gmail.com
 - StackOverflow Samples ---> https://stackblitz.com/@TheTeabagCoder/collections/stackoverflow-sample
 - Hackerrank ---> https://www.hackerrank.com/profile/theteabagcoder
+- Dev.to ---> https://dev.to/theteabagcoder
+- Hashnode ---> https://theteabagcoder.hashnode.dev/
